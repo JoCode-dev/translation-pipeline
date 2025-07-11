@@ -1,0 +1,14 @@
+{
+  "products": {
+    "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
+      "name": "Gluten-free dough",
+      "description": "<p>One size 28cm</p>"
+    }
+  },
+  "categories": {
+    "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
+      "name": "create your own pizza",
+      "description": "<p>All Create Your Own Pizza products are listed here.</p>"
+    }
+  }
+}

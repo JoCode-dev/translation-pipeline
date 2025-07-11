@@ -72,18 +72,45 @@ Configurez votre clé API DeepL :
 
 ```bash
 # Créez un fichier .env
-echo "DEEPL_API_KEY=votre_cle_api" > .env
+echo "DEEP_L_API_KEY=votre_cle_api" > .env
 ```
 
 ## Utilisation
 
+### Commandes disponibles
+
+Le pipeline de traduction offre plusieurs commandes pour différentes tâches :
+
+#### Traduction principale
+```bash
+# Traduction interactive (avec prompts)
+pnpm run translate
+
+# Exécuter la traduction directement
+pnpm run translate:run
+
+# Traduction avec options spécifiques
+pnpm run translate:run --source="products.json" --target="en,de" --verbose
+```
+
+#### Vérification et maintenance
+```bash
+# Vérifier les traductions manquantes
+pnpm run translate:check-missing
+
+# Générer/régénérer le cache
+pnpm run translate:generate-cache
+
+# Synchroniser les traductions
+pnpm run translate:sync
+
+# Réinitialiser le système
+pnpm run translate:reset
+```
+
 ### Traduction des données
 
-Placez vos fichiers JSON sources dans le dossier `data/` et lancez le script de traduction :
-
-```bash
-pnpm run translate
-```
+Placez vos fichiers JSON sources dans le dossier `data/` et lancez une des commandes de traduction ci-dessus.
 
 ### Structure des données d'entrée
 

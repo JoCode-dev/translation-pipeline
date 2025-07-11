@@ -1,0 +1,56 @@
+[
+  {
+    "id": 154,
+    "restaurant": {
+      "id": "515a4836-3e47-47c5-9b87-1cf4feefe247",
+      "name": "Penthaz",
+      "email": "penthaz@vabenepizza.ch",
+      "phoneNumber": "021 560 95 51",
+      "created_at": "2025-06-08T23:26:39+00:00"
+    },
+    "product": {
+      "created_at": "2025-06-14T23:58:30+00:00",
+      "id": "01b30afb-c735-4dba-bb73-121d1cc7fab2",
+      "type": "Pizza",
+      "name": "Pâte sans gluten",
+      "description": "<p>Taille unique de 28cm</p>",
+      "image_urls": [
+        "https://res.cloudinary.com/dmxs8btps/image/upload/v1751754132/y6jilzjziadjppopltax.png"
+      ],
+      "categorieID": {
+        "created_at": "2025-06-07T23:33:35+00:00",
+        "id": "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e",
+        "name": "créer votre pizza",
+        "description": "<p>tous les produits de type créer votre pizza sont repertorié ici.</p>",
+        "isActive": true,
+        "isDeleted": false
+      },
+      "Ingredients": [],
+      "supplements": [],
+      "cookingTime": 15,
+      "productSizes": [
+        {
+          "id": "e45f2496-a9a2-4f21-b6da-13b7e7cd1b3d",
+          "size": "28cm",
+          "price": "18.0",
+          "generalDescription": "<p>Taille 28cm</p>",
+          "priceLivraison": "20.0",
+          "created_at": "2025-06-14T23:58:30+00:00"
+        }
+      ],
+      "isDeleted": false,
+      "isActive": true,
+      "isFavorite": null,
+      "isVedette": null,
+      "isSelected": null,
+      "ispeciality": null,
+      "isSansGluten": null,
+      "longDescription": null,
+      "ordered": "null",
+      "additionnal": [],
+      "exception": null
+    },
+    "isActive": true,
+    "isDeleted": false
+  }
+]

@@ -4,6 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "translate": "tsx app.ts",
+    "translate:run": "tsx app.ts run",
+    "translate:check-missing": "tsx app.ts check-missing",
+    "translate:generate-cache": "tsx app.ts generate-cache",
+    "translate:sync": "tsx app.ts sync",
+    "translate:reset": "tsx app.ts reset",
+    "translate:interactive": "tsx app.ts --yes=false",
+    "translate:force": "tsx app.ts --force",
+    "dev": "tsx watch app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,6 +21,14 @@
   "license": "ISC",
   "packageManager": "pnpm@10.11.0",
   "dependencies": {
+    "@clack/prompts": "^0.11.0",
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "tsx": "^4.7.1",
     "typescript": "^5.8.3"
   }
 }

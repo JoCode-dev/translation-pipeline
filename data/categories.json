@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9a2d4de4-5aff-4805-b888-093ca8229df8",
+    "category": {
+      "created_at": "2025-06-07T23:33:35+00:00",
+      "id": "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e",
+      "name": "créer votre pizza",
+      "description": "<p>tous les produits de type créer votre pizza sont repertorié ici.</p>",
+      "icone": "https://res.cloudinary.com/dmxs8btps/image/upload/v1749339214/ajp8xif4rwqtmoxsb9tt.png",
+      "isRecommended": null
+    },
+    "isActive": true,
+    "ordered": "4",
+    "created_at": "2025-06-13T12:47:56+00:00"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "products": {
+    "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
+      "name": "Impasto senza glutine",
+      "description": "<p>Taglia unica 28 cm</p>"
+    }
+  },
+  "categories": {
+    "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
+      "name": "crea la tua pizza",
+      "description": "<p>Tutti i prodotti Create Your Own Pizza sono elencati qui.</p>"
+    }
+  }
+}

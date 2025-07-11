@@ -1,0 +1,14 @@
+{
+  "products": {
+    "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
+      "name": "Glutenfreier Teig",
+      "description": "<p>Einheitsgröße von 28cm</p>"
+    }
+  },
+  "categories": {
+    "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
+      "name": "Ihre Pizza erstellen",
+      "description": "<p>Alle Produkte des Typs Pizza selbst herstellen sind hier aufgelistet.</p>"
+    }
+  }
+}

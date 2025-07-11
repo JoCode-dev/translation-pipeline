@@ -1,0 +1,19 @@
+{
+  "hello": "Bonjour",
+  "world": "Monde",
+  "products": {
+    "0ac3df92p2": "Ordinateur portable",
+    "0ac3df92p3": "Smartphone",
+    "0ac3df92p4": "Casque audio",
+    "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
+      "name": "Pâte sans gluten",
+      "description": "<p>Taille unique de 28cm</p>"
+    }
+  },
+  "categories": {
+    "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
+      "name": "créer votre pizza",
+      "description": "<p>tous les produits de type créer votre pizza sont repertorié ici.</p>"
+    }
+  }
+}
