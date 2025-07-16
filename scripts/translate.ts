@@ -205,7 +205,8 @@ export async function translate() {
     for (const entry of newEntries) {
       const translatedValue = await translateText(
         entry.value,
-        lang.toLowerCase() as Lang
+        lang.toLowerCase() as Lang,
+        "E-commerce Pizzeria in Switzerland"
       );
 
       deepSet(localeData, entry.key, translatedValue);
