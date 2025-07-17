@@ -1,14 +1,1308 @@
 {
+  "hello": "Hallo",
+  "world": "Welt",
   "products": {
+    "f7492f62-ee94-48ec-a9d0-56ee934b0298": {
+      "name": "Al Tonno glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Thunfisch, rote Zwiebeln, Kapern und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Thunfisch, rote Zwiebeln, Kapern und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Fisch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "f4c03404-082d-4b84-8f70-67ddf775e670": {
+      "name": "Diavola",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, pikante Salami und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, pikante Salami und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "f2835cac-9f0b-4d5d-a3ea-4ed89234c028": {
+      "name": "Boscaiola",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Speck, rote Zwiebeln, Pilze und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Speck, rote Zwiebeln, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "f20dcb38-3c37-4908-8942-ef4623a56ef0": {
+      "name": "Fusetea Angeln",
+      "description": "<p><strong>Fusetea Angeln </strong></p>",
+      "longDescription": "<p>Wasser, Zucker, Fruktose, Säuerungsmittel: Zitronensäure und Apfelsäure, Schwarztee-Extrakt**(0.12%), Pfirsichsaft aus Pfirsichsaftkonzentrat (0.1%), </p><p>natürliche Aromen, Säureregulator: Natriumcitrate, Antioxidationsmittel: Ascorbinsäure, Hibiskusextrakt (0.01%), </p><p>Süßungsmittel: Steviolglykoside aus Stevia (E960a).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "ed2aecaf-ba88-40da-8504-3f2b5091d9eb": {
+      "name": "Coca Cola 33cl",
+      "description": "<p><strong>Coca Cola 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "e9a952a4-b1be-48da-8508-f2c01400294d": {
+      "name": "Tiramisu Oreo",
+      "description": "<p><strong>Tiramisu Oreo</strong></p>",
+      "longDescription": "<p>Mascarpone, Zucker, Eiweiss, Oreo 11%, Eigelb, Boudoir, Kaffee</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sojabohnen, Eier, glutenhaltiges Getreide (Weizen).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "e3e407a3-e962-47f6-8084-538e94ab7043": {
+      "name": "Carbonara",
+      "description": "<p>Fior di Latte Mozzarella, Speck, geschlagene Eier, rote Zwiebeln und Grana Padano DOP Schuppen</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, Speck, geschlagene Eier, rote Zwiebeln und Grana Padano DOP Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Eier.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "e2a3eecf-6906-4ce6-83ab-44bda5e55c7d": {
+      "name": "Rucola",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Rohschinken, Rucola und Grana Padano DOP-Schuppen</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Rohschinken, Rucola und Grana Padano DOP Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "da564a16-8318-413a-bb21-f7bd0e2c2a3f": {
+      "name": "Gemischter Salat",
+      "description": "<p><strong>Gemischter Salat</strong></p>",
+      "longDescription": "<p>Gemischter Salat</p><p><br></p><p><strong>Allergene :</strong></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "d9bb7c52-cc5b-45c2-9418-12dd00dcb9c2": {
+      "name": "Glutenfreier Teig ohne glutten",
+      "description": "<p>Stellen Sie Ihre Pizza zusammen </p>",
+      "productSizes": [
+        {
+          "size": "28cm"
+        }
+      ]
+    },
+    "d8d06724-8e9b-492e-84f6-e9d47d50a8f8": {
+      "name": "Coca Cola Zero ",
+      "description": "<p><strong>Coca Cola Zero </strong></p>",
+      "longDescription": "<p>Wasser, Kohlensäure, Farbstoff E 150d, Süßungsmittel: Cyclamat, Acesulfam-K, Säuerungsmittel: E338 und Natriumcitrat, natürliche Aromen, Koffeinaroma. Enthält eine Phenylalaninquelle.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "d2b3b71a-afe4-4551-9834-c54ef6a1d409": {
+      "name": "Tiramisu Spekulatius",
+      "description": "<p><strong>Tiramisu Spekulatius</strong></p>",
+      "longDescription": "<p>Mascarpone, Zucker, Eiweiß, Spekulatius 11%, Eigelb, Boudoir, Kaffee.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sojabohnen, Eier, glutenhaltiges Getreide (Weizen).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ce2145b0-bda8-4d71-8d95-026d18a05adb": {
+      "name": "Klassisches Tiramisu",
+      "description": "<p><strong>Klassisches Tiramisu</strong></p>",
+      "longDescription": "<p>Mascarpone, Zucker, pasteurisierte Eier, Kaffee, Schokolade</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sojabohnen, Eier, glutenhaltiges Getreide (Weizen).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "klassisch"
+        }
+      ]
+    },
+    "cd535c6d-1924-459a-ad86-56e9f60bac48": {
+      "name": "Vegetariana (Sandwich)",
+      "description": "<p>Paprika, Auberginen, Kirschtomaten, Oliven und Rucola</p>",
+      "longDescription": "<p>Paprika, Auberginen, Kirschtomaten, Oliven und Rucola.</p><p>Trotz sorgfältiger Verarbeitung können sich in Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ccb8a3e0-a97e-4ae4-aba0-1b3d8f69a499": {
+      "name": "Glutenfreies Bufala",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Kirschtomaten und frisches Basilikum</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Kirschtomaten und frisches Basilikum.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "cc4c9a3b-c322-4252-baad-5a3c0df5b115": {
+      "name": "Al Tonno",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Thunfisch, rote Zwiebeln, Kapern und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Thunfisch, rote Zwiebeln, Kapern und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Fisch.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "cb990623-c316-4e1a-b65e-1e75f4b951da": {
+      "name": "Quattro Formaggi glutenfrei",
+      "description": "<p>Mozzarella Fior di Latte, Gorgonzola DOP, Frischkäse und Grana Padano DOP-Schuppen</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, Gorgonzola DOP, Frischkäse und Grana Padano DOP-Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "c8ad00db-387c-4e39-8617-fbcb076d4dcd": {
+      "name": "Glutenfreie Margherita",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella und Oregano</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "c44d53e7-1410-42a3-8011-97c2978a1ef5": {
+      "name": "Panzerotto Fior di Latte",
+      "description": "<p>Tomatensauce, Mozzarella Fior di Latte und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di latte Mozzarella und Oregano</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "c321cdc3-b734-4253-8ec9-369f6f9087c2": {
+      "name": "Focaccia",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pizzabrot, Öl mit Knoblauch und Oregano</p><p><br></p><p><strong>Allergene:</strong> </p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "Focaccia"
+        }
+      ]
+    },
+    "b38c42f5-1d91-407d-87c5-3854cd449ab1": {
+      "name": "Panzerotto Pistache",
+      "description": "<p>Pistaziencreme und Burrata-Stracciatella</p>",
+      "longDescription": "<p>Pistaziencreme und Burrata-Stracciatella</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Schalenfrüchte.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "b35e4b10-fe4f-4d63-930b-7f45e72d1d89": {
+      "name": "Glutenfreie Svedese",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, geräucherter Lachs, rote Zwiebeln, Kapern und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, geräucherter Lachs, rote Zwiebeln, Kapern und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Fisch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "b0bc4464-9d1f-450f-bb0e-95382c465e4b": {
+      "name": "Caesar-Salat",
+      "description": "<p>Gemischter Salat, gegrilltes Huhn, Grana Padano DOP-Schuppe und Croutons</p>",
+      "longDescription": "<p>Gemischter Salat, gegrilltes Huhn, Grana Padano DOP-Schuppen und Croutons.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ac5cdc3c-2fb6-4d3d-86c8-793b8a1980cf": {
+      "name": "Pizza Nutella",
+      "description": "<p><strong>Pizza Nutella</strong></p>",
+      "longDescription": "<p>Weizen, Zucker, Nutella </p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Schalenfrüchte, Milch, Sojabohnen.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "abcb628b-1808-481b-9eae-bc906a3a83a0": {
+      "name": "Panna Cotta",
+      "description": "<p><strong>Panna Cotta</strong></p>",
+      "longDescription": "<p>Himbeere, Sahne, Vanille, Zucker</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Eier, Schalenfrüchte</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a9c13777-a104-4e46-ab0f-ee97ef3e37d3": {
+      "name": "Vegetariana",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Auberginen, Paprika, rote Zwiebeln und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Auberginen, Paprika, rote Zwiebeln und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a865d688-74b0-4ff8-ad7c-6dca54946c25": {
+      "name": "Quattro Formaggi",
+      "description": "<p>Mozzarella Fior di Latte, Gorgonzola DOP, Frischkäse und Grana Padano DOP-Schuppen</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, Gorgonzola DOP, Frischkäse und Grana Padano DOP-Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "a63915fc-2986-45f5-a151-1d37ff63e6b6": {
+      "name": "Della Valtellina (Sandwich)",
+      "description": "<p>Bresaola, Mozzarella di Bufala DOP, hausgemachtes Basilikum-Pesto und Rucola</p>",
+      "longDescription": "<p>Bresaola, Mozzarella di bufala DOP, hausgemachtes Basilikum-Pesto und Rucola.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a529e5ff-75d0-49ea-9e44-fa3bf436e4ad": {
+      "name": "Primavera",
+      "description": "<p>Fior di Latte Mozzarella, Rohschinken, Ricotta und hausgemachtes Basilikumpesto</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, Rohschinken, Ricotta und hausgemachtes Basilikumpesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "a4f31706-e4ac-4675-9b58-a2584524649a": {
+      "name": "Bufala",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Kirschtomaten und frisches Basilikum</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Kirschtomaten und frisches Basilikum.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "a2990a8b-9342-4111-86b7-723f53dc89e2": {
+      "name": "Margherita",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella und Oregano</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9f2455ad-da2b-435d-9664-dfe62eccd7a9": {
+      "name": "Rigatoni ",
+      "description": "<p>Ragù alla Bolognese</p>",
+      "longDescription": "<p>Ragù alla Bolognese</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9e16bc68-b724-420e-9065-ea611bae47b0": {
+      "name": "Panzerotto Prosciuto *",
+      "description": "<p>Tomatensauce, Mozzarella Fior di Latte, gekochter Schinken/*Option Truthahn und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di latte Mozzarella, gekochter Schinken/*Option Truthahn und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9ddb7aa2-551a-4acf-8697-96f432390da2": {
+      "name": "Brot mit Knoblauch",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pizzabrot, Öl mit Knoblauch und Oregano</p><p><br></p><p><strong>Allergene: </strong></p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9c801475-7922-4cf5-b37f-848a55314c83": {
+      "name": "Capricciosa *",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Artischocken, Ei und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Artischocken, Eier und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Eier.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9c066cea-d736-4e97-9c56-ddb30f23a2ed": {
+      "name": "Tagliatelle",
+      "description": "<p>Gegrilltes Hähnchen, Kirschtomaten, Oliven und Kapern</p>",
+      "longDescription": "<p>Gegrilltes Hähnchen, Kirschtomaten, Oliven und Kapern.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9b196a9f-7455-448b-b464-fcc77384fb3f": {
+      "name": "Primavera glutenfrei",
+      "description": "<p>Fior di Latte Mozzarella, Rohschinken, Ricotta und hausgemachtes Basilikumpesto</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, Rohschinken, Ricotta und hausgemachtes Basilikumpesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "9ac869c1-e4d2-43b9-a753-9e3da34f5795": {
+      "name": "Boscaiola ohne Glutten",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Speck, rote Zwiebeln, Pilze und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Speck, rote Zwiebeln, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "9a748339-583f-4a4f-805f-4fc75fa5bbc8": {
+      "name": "Al Tonno (Sandwich)",
+      "description": "<p>Thunfisch mit Mayonnaise, Fior di Late-Mozzarella, roten Zwiebeln und Kirschtomaten</p>",
+      "longDescription": "<p>Thunfisch mit Mayonnaise, Fior di latte Mozzarella , roten Zwiebeln und Kirschtomaten.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Senf</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9a3ad1bc-86af-43b7-9f9c-b860b21457dc": {
+      "name": "Glutenfreier Dracula",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Merguez, Paprika, Oliven und Oregano</p>",
+      "longDescription": "<p><br></p><p>Tomatensauce, Mozzarella Fior di Latte, Merguez, Paprika, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "99ea5fa7-23a4-4180-8cb6-31608f67d6cb": {
+      "name": "FuseTea Zitrone 0,5L",
+      "description": "<p><strong>FuseTea Zitrone 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "97f40696-68d1-4c50-8f83-54c4ba0a6fa2": {
+      "name": "Lombarda *",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9523a3d5-e961-408d-b76b-76c54e36ac8e": {
+      "name": "Siciliana",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Mortadella und Pistazienpesto</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Mortadella und Pistazienpesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Schalenfrüchte.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "94e5758c-17f1-4a84-86d1-0fd2dfd991ef": {
+      "name": "Valser Plate ",
+      "description": "<p><strong>Valser Plate </strong></p>",
+      "longDescription": "<p>Leichtes Wasser ohne Kohlensäure: still und weich. Es stammt aus der St. Paul's Quelle, die 1806 Meter über dem Meeresspiegel liegt, </p><p>VALSER Plate ist dank seines geringen Mineraliengehalts (220 mg/l) besonders weich im Geschmack.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        }
+      ]
+    },
+    "94091118-f1cb-439c-9499-50d99ae2481b": {
+      "name": "Rotolo Pizza",
+      "description": "<p>Tomatensauce, Rucola, Kirschtomaten und Frischkäse</p>",
+      "longDescription": "<p>Tomatensauce, Rucola, Kirschtomaten und Frischkäse</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "933d4b5c-b727-40f6-82ff-0143e8b2665f": {
+      "name": "Gamberetti",
+      "description": "<p>Fior di Latte Mozzarella, geschälte Garnelen, Spinat, Kirschtomaten und Knoblauchöl</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, geschälte Garnelen, Spinat, Kirschtomaten und Knoblauchöl.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "91776d2d-595b-44f2-a9e3-7c6eb7229e10": {
+      "name": "Gnocchi",
+      "description": "<p>Gorgonzola e noci</p>",
+      "longDescription": "<p>Gorgonzola und Nüsse</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Schalenfrüchte.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "8f3d1441-c6a8-4477-a0a7-e238804752ab": {
+      "name": "Coca Cola 0,5L",
+      "description": "<p><strong>Coca Cola 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "8e569f7c-5919-4965-bafa-b6897c01eed8": {
+      "name": "Fanta orange",
+      "description": "<p><strong>Fanta orange</strong></p>",
+      "longDescription": "<p>Wasser mit Kohlensäure; Orangensaft aus Konzentrat (10%); Zucker; Zitronensaft aus Konzentrat (2%) ; </p><p>natürliche Orangenaromen mit anderen natürlichen Aromen; Konservierungsmittel: </p><p>Kaliumsorbat; Stabilisator: Guargummi; Honigextrakte ; </p><p>Farbstoff: Carotinoide.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "8c5ef790-87b0-47fc-bf86-368d40b3304b": {
+      "name": "Glutenfreie Marinara",
+      "description": "<p>Tomatensauce, Oliven, Kapern und Knoblauchöl</p>",
+      "longDescription": "<p>Tomatensauce, Oliven, Kapern und Knoblauchöl</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "8a3fd111-0fb5-4081-b2aa-1b4a54f4b336": {
+      "name": "Diavola ohne Glutten",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, pikante Salami und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, pikante Salami und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "88568ec3-39ac-4d57-976f-1978a7f8f8e0": {
+      "name": "Napoletana",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Sardellen, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Mozzarella Fior di Latte,Sardellen, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Fisch.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "833d80bf-9f84-4d24-ada8-a7745fdfb022": {
+      "name": "Valser Kohlensäure 0,5L",
+      "description": "<p><strong>Valser Kohlensäure 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "7bdba4c6-6cc4-4944-9a1d-f86ebc745ab5": {
+      "name": "4 Stagioni * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze, Artischocken, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Pute, Pilze, Artischocken, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "799fab29-1ef9-48ad-af8f-dcf77bc41c96": {
+      "name": "Glutenfreie Napoletana",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Sardellen, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Mozzarella Fior di Latte,Sardellen, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Fisch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "78f59dca-33f1-413d-bf66-45475ef32bed": {
+      "name": "Calzone * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, gekochter Schinken/*Option Pute, Ei und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken, Ei und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Ei</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig "
+        }
+      ]
+    },
+    "75295817-0d21-4282-9017-596970d678ed": {
+      "name": "Panzerotto Tartufo",
+      "description": "<p>Trüffelcreme und Burrata-Stracciatella</p>",
+      "longDescription": "<p>Tomatensauce, Fior di latte Mozzarella, gekochter Schinken und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "708a1004-93ff-4c86-8fa6-55ffb9107735": {
+      "name": "Pettoline",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pizzabrot und Salz</p><p><br></p><p><strong>Allergene: </strong></p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "70113c74-866b-4aee-9c3f-b97d9a01f318": {
+      "name": "Frutti di Mare glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Meeresfrüchte-Cocktail und Knoblauchöl</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Meeresfrüchtecocktail und Knoblauchöl.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Fisch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "6c9d63c2-1b77-4fc6-ade1-782e6ced493d": {
+      "name": "Fanta 33cl",
+      "description": "<p><strong>Fanta 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33 cl"
+        }
+      ]
+    },
+    "67069091-a951-4204-b6be-034ab3b43fc8": {
+      "name": "Dracula",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Merguez, Paprika, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Mozzarella Fior di Latte, Merguez, Paprika, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "61407f77-38f3-4423-8ab9-566db0bdfcf5": {
+      "name": "Mickey Mouse (Kind)",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Oliven, Basilikum und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "5b284f15-eac6-4656-9dc4-e67e3cfc9c59": {
+      "name": "Prosciuto* (Sandwich)",
+      "description": "<p>Gekochter Schinken/*Option Truthahn, Fior di Late Mozzarella, Kirschtomaten und Rucola</p>",
+      "longDescription": "<p>Gekochter Schinken/*Option Truthahn, Fior di latte Mozzarella, Kirschtomaten und Rucola.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "5abe5b8a-aa88-4641-902b-ce76ea614af8": {
+      "name": "Coca Cola Original",
+      "description": "<p><strong>Coca Cola Original</strong></p>",
+      "longDescription": "<p>Wasser, Zucker, Kohlensäure, Farbstoff E 150d, Säuerungsmittel E 338, natürliche Aromen inkl. Koffein</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        }
+      ]
+    },
+    "5a6956b0-2b55-4a46-87a1-57c491cb5b80": {
+      "name": "Klassischer Teig",
+      "description": "<p>Wählen Sie die Größe</p>",
+      "longDescription": "<p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen)</p>",
+      "productSizes": [
+        {
+          "size": "24cm"
+        },
+        {
+          "size": "40cm"
+        },
+        {
+          "size": "33cm"
+        }
+      ]
+    },
+    "58f10060-4f51-4f9d-8ca1-1ac00b28c85f": {
+      "name": "Marinara",
+      "description": "<p>Tomatensauce, Oliven, Kapern und Knoblauchöl</p>",
+      "longDescription": "<p>Tomatensauce, Oliven, Kapern und Knoblauchöl</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "58edb71c-ee08-4840-98d6-00c93158f0b8": {
+      "name": "Di Parma (Sandwich)",
+      "description": "<p>Rohschinken, Mozzarella di Bufala DOP, hausgemachtes Basilikumpesto und Rucola</p>",
+      "longDescription": "<p>Rohschinken, Mozzarella di bufala DOP, hausgemachtes Basilikum-Pesto und Rucola.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "583d87cd-d1f0-4eb0-8ca5-06bed9ff2dd2": {
+      "name": "Lombarda * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "51cbc3fe-89f0-406e-a5a1-c5dee6dff544": {
+      "name": "Klassischer glutenfreier Pizzateig",
+      "description": "<p>Wählen Sie die Größe und belegen Sie sie anschließend.</p>",
+      "productSizes": [
+        {
+          "size": "24cm"
+        },
+        {
+          "size": "33cm"
+        },
+        {
+          "size": "40cm"
+        }
+      ]
+    },
+    "50b39318-e1f1-4835-8ccd-31778a0c6b55": {
+      "name": "Sprite 33cl",
+      "description": "<p><strong>Sprite 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "4b92b2a0-80ac-44e0-a460-3240e17bb036": {
+      "name": "4 Stagioni *",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze, Artischocken, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Pute, Pilze, Artischocken, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "4887306d-e280-42fc-8419-ad03a78a4be3": {
+      "name": "Salat Al Tonno",
+      "description": "<p>Gemischter Salat, Thunfisch, rote Zwiebeln, Oliven und hartgekochtes Ei</p>",
+      "longDescription": "<p>Gemischter Salat, Thunfisch, rote Zwiebeln, Oliven und hartgekochtes Ei.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Fisch, Eier</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "45a90f70-251b-4959-8e81-44c4ba25fbe0": {
+      "name": "Glutenfreie Rucola",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Rohschinken, Rucola und Grana Padano DOP-Schuppen</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Rohschinken, Rucola und Grana Padano DOP Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "40445de5-d2b8-491c-a3a5-5a19c5e2ae92": {
+      "name": "Hawai * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Ananas und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Ananas und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "3f49ca77-d99c-4883-b3ae-2b68ab414fde": {
+      "name": "Mortadella (Sandwich)",
+      "description": "<p>Mortadella, Mozzarella di Bufala DOP, hausgemachtes Pistazienpesto und Rucola</p>",
+      "longDescription": "<p>Mortadella, Mozzarella di bufala DOP, hausgemachtes Pistazienpesto und Rucola.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Schalenfrüchte.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "3c4cb427-64a6-44f7-b368-638425f86094": {
+      "name": "Va Bene glutenfrei",
+      "description": "<p>Tomatensauce, Mozzarella Fior di Latte, Bresaola, Mozzarella di Bufala DOP, Rucola und mit Trüffel aromatisiertes Öl</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Bresaola, Mozzarella di Bufala DOP, Rucola und Öl mit Trüffelaroma und ohne Glutten.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "3beecbb8-632f-47c8-922c-fd2e1d4440d0": {
+      "name": "Valser Plate 0,5L",
+      "description": "<p><strong>Valser Plate 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "3b4285f9-33ad-471f-95e6-ad5b7d43f531": {
+      "name": "Glutenfreie Burrata",
+      "description": "<p>Gelbe Tomaten, Fior di Latte-Mozzarella, Burrata, Pinienkerne und hausgemachtes Basilikum-Pesto</p>",
+      "longDescription": "<p>Gelbe Tomaten, Fior di Latte Mozzarella, Burrata, Pinienkerne und hausgemachtes Basilikum-Pesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Schalenfrüchte</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "37837eac-20c9-4036-8e48-803aacc4d4aa": {
+      "name": "Svedese",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, geräucherter Lachs, rote Zwiebeln, Kapern und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, geräucherter Lachs, rote Zwiebeln, Kapern und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Fisch.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "370abd1e-1784-41ef-acaa-544860e0198f": {
+      "name": "FuseTea Pfirsich 33cl",
+      "description": "<p><strong>FuseTea Pfirsich 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "31143750-99aa-4d00-9bda-5d052ec0061b": {
+      "name": "FuseTea Zitrone 33cl",
+      "description": "<p><strong>FuseTea Zitrone 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "305566de-a9b2-40a9-a16f-345ee75ee032": {
+      "name": "Glutenfreies Funghi",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Pilze und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "2cb5db83-e346-4f10-9a13-f60410e0c267": {
+      "name": "Salatsauce extra",
+      "description": "<p>Salatsauce extra</p>",
+      "longDescription": "<p>Balsamicos:</p><p>Wasser, Balsamico-Essig aus Modena 22% (Weinessig, Traubenmost), Rotweinessig, Zucker, Sonnenblumenöl, jodiertes Kochsalz, Gewürze, Hefeextrakt, Knoblauch, Zitronensaftkonzentrat, natürliches Aroma, Kochsalz, Verdickungsmittel (Carrageen, Xanthan, Guarkernmehl), Konservierungsmittel (E202).</p><p>Französisch :</p><p>Wasser, Sonnenblumenöl, Branntweinessig, Eigelb (Eier aus Bodenhaltung), modifizierte Maisstärke, MOUTARDE, Zucker, Streuwürze (mit Geschmacksverstärker: Mononatriumglutamat), jodiertes Kochsalz, Kräuter der Provence 0.39%, Gewürze und Gewürzextrakt, Zitronensaftkonzentrat, Säuerungsmittel (Milchsäure), Konservierungsmittel (E202), Verdickungsmittel (Xanthan).</p><p>Italienisch :</p><p>Wasser, Rotweinessig, Sonnenblumenöl, Stärke, Zucker, jodiertes und unjodiertes Kochsalz, Kräuter, Knoblauch, Gewürze, natürliche Aromen, Zitronen- und Holundersaftkonzentrat, Hefeextrakt.</p><p><br></p><p><strong>Allergene:</strong></p><h3>Schalenfrüchte, Milch, Senf</h3>",
+      "productSizes": [
+        {
+          "size": "Balsamico"
+        },
+        {
+          "size": "Italienisch"
+        },
+        {
+          "size": "Französisch"
+        }
+      ]
+    },
+    "28ecb8d1-a044-4d2d-8bce-b478968b0a56": {
+      "name": "Capricciosa * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Artischocken, Ei und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Artischocken, Eier und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Eier</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "25a03bff-aa6c-4ec8-935b-5ef088e37e79": {
+      "name": "Calzone *",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, gekochter Schinken/*Option Pute, Ei und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Pute, Ei und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite, Eier.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "2532e9c1-a473-4478-a5e3-3c5cc9fe984e": {
+      "name": "Burrata",
+      "description": "<p>Gelbe Tomaten, Fior di Latte-Mozzarella, Burrata, Pinienkerne und hausgemachtes Basilikum-Pesto</p>",
+      "longDescription": "<p>Gelbe Tomaten, Fior di Latte Mozzarella, Burrata, Pinienkerne und hausgemachtes Basilikum-Pesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Schalenfrüchte.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "22c10b47-afad-496a-b864-2ad9532e6dca": {
+      "name": "Fusetea Zitrone ",
+      "description": "<p><strong>Fusetea Zitrone </strong></p>",
+      "longDescription": "<p>Wasser, Zucker, Fruktose, Säuerungsmittel: Zitronensäure, Schwarztee-Extrakt (0.12%), Zitronensaft aus Zitronensaftkonzentrat(0.1%), </p><p>Säureregulator: Natriumcitrate, Konservierungsmittel: E211 und E202, </p><p>natürliche Aromen, Antioxidationsmittel: Ascorbinsäure, Süßungsmittel: Steviolglykoside auf Stevia-Basis (E960a)</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "209819fe-df68-4e94-ba8f-381ca13c73b3": {
+      "name": "Montanara *",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "1fd5ddac-155b-4299-80d7-08ef84b7b26c": {
+      "name": "Orecchiette",
+      "description": "<p>Panna e Salmone</p>",
+      "longDescription": "<p>Panna e salmone</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Fisch.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "1af0ff23-bd1a-49a0-9764-33f05aef99c8": {
+      "name": "Sprite ",
+      "description": "<p><strong>Sprite </strong></p>",
+      "longDescription": "<p>Wasser, Zucker, Kohlensäure, Säuerungsmittel Zitronensäure, Süßungsmittel Acesulfam K, Aspartam und Neohesperidin DC, Konservierungsmittel Natriumbenzoat, Säureregulator Natriumcitrate, natürliche Zitronen- und Limettenaromen. Enthält eine Phenylalaninquelle.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "1a6bcac9-0d8d-4c71-a4d8-ed67c9693071": {
+      "name": "Pollo Dorato",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Hähnchencurry, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Hähnchencurry, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "1a2a6b4c-3113-4915-bd92-590e33b61788": {
+      "name": "FuseTea Pfirsich 0,5L",
+      "description": "<p><strong>FuseTea Pfirsich 0,5L</strong></p>"
+    },
+    "16a075b4-3957-4124-8d73-140c204f2c43": {
+      "name": "Funghi",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Pilze und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "0f0778ab-7c5c-407b-ac6c-68982430047e": {
+      "name": "Frutti di Mare",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Meeresfrüchte-Cocktail und Knoblauchöl</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Meeresfrüchtecocktail und Knoblauchöl.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Fisch.</p>",
+      "productSizes": [
+        {
+          "size": "Große"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        }
+      ]
+    },
+    "0e4865ce-e267-4f35-a875-8a35d53cfc83": {
+      "name": "Hawai *",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Ananas und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Ananas und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "0d9237b7-3f1d-451e-8a71-7bc26569e1ee": {
+      "name": "Montanara * glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze und Oregano</p>",
+      "longDescription": "<p><br></p><p>Tomatensauce, Fior di Latte Mozzarella, gekochter Schinken/*Option Truthahn, Pilze und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "0d4def39-234b-45ff-b9ea-afae58434263": {
+      "name": "Glutenfreie Vegetariana",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Auberginen, Paprika, rote Zwiebeln und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Auberginen, Paprika, rote Zwiebeln und Oregano.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "0cc9ad7f-614f-41fd-a8ca-61bb3b09dc1d": {
+      "name": "Test",
+      "description": "<p>dies ist ein Test</p>",
+      "productSizes": [
+        {
+          "size": "30cm"
+        }
+      ]
+    },
+    "0a7033e3-0e12-4acc-92b0-efbf54ca06e9": {
+      "name": "Fusilli",
+      "description": "<p>Pesto aus Basilikum</p>",
+      "longDescription": "<p>Pesto aus Basilikum und Pinienkernen</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Nüsse</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "08dfe788-5b7e-450b-9504-4187dd8a7381": {
+      "name": "Glutenfreie Carbonara",
+      "description": "<p>Fior di Latte Mozzarella, Speck, geschlagene Eier, rote Zwiebeln und Grana Padano DOP Schuppen</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, Speck, geschlagene Eier, rote Zwiebeln und Grana Padano DOP Schuppen.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Eier</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "06f0a74f-53ca-404e-89d7-68c93f6c5e4c": {
+      "name": "Siciliana glutenfrei",
+      "description": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Mortadella und Pistazienpesto</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Mozzarella di Bufala DOP, Mortadella und Pistazienpesto.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite, Schalenfrüchte</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "06592797-a318-483c-9a02-385b2fd5c5f9": {
+      "name": "Gamberetti glutenfrei",
+      "description": "<p>Fior di Latte Mozzarella, geschälte Garnelen, Spinat, Kirschtomaten und Knoblauchöl</p>",
+      "longDescription": "<p>Fior di Latte Mozzarella, geschälte Garnelen, Spinat, Kirschtomaten und Knoblauchöl.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch, Sulfite</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
+    "0577d23f-f859-452e-9478-aa3fe420e5a7": {
+      "name": "Va Bene",
+      "description": "<p>Tomatensauce, Mozzarella Fior di Latte, Bresaola, Mozzarella di Bufala DOP, Rucola und mit Trüffel aromatisiertes Öl</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Bresaola, Mozzarella di Bufala DOP, Rucola und mit Trüffel aromatisiertes Öl.</p><p><br></p><p><strong>Allergene:</strong></p><p>Glutenhaltiges Getreide (Weizen), Milch, Sulfite.</p>",
+      "productSizes": [
+        {
+          "size": "Kleine"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Große"
+        }
+      ]
+    },
+    "05289e57-360f-48e0-8cfa-b556a814369c": {
+      "name": "Prickelnde Valser ",
+      "description": "<p><strong>Prickelnde Valser </strong></p>",
+      "longDescription": "<p>Natürliches Mineralwasser ist mit Kohlensäure angereichert und hat einen hohen Mineraliengehalt. </p><p>VALSER prickelnd ist der ideale Durstlöscher und darüber hinaus sehr wertvoll für den Körper.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "03159f66-0439-4990-a2ed-ca1e315249ce": {
+      "name": "Glutenfreies Pollo Dorato",
+      "description": "<p>Tomatensauce, Fior di Latte-Mozzarella, Hähnchencurry, Oliven und Oregano</p>",
+      "longDescription": "<p>Tomatensauce, Fior di Latte Mozzarella, Hähnchencurry, Oliven und Oregano.</p><p>Trotz sorgfältiger Verarbeitung können sich in den Oliven noch Kerne und Kernfragmente befinden.</p><p><br></p><p><strong>Allergene:</strong></p><p>Milch</p>",
+      "productSizes": [
+        {
+          "size": "Einzigartig (28cm)"
+        }
+      ]
+    },
     "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
       "name": "Glutenfreier Teig",
-      "description": "<p>Einheitsgröße von 28cm</p>"
+      "description": "<p>Einheitsgröße von 28cm</p>",
+      "productSizes": [
+        {
+          "size": "28cm"
+        }
+      ]
+    },
+    "00f0b034-53a8-4194-8a37-b5e250f5a78e": {
+      "name": "Coca Zero 33cl",
+      "description": "<p><strong>Coca Zero 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
     }
   },
   "categories": {
     "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
       "name": "Ihre Pizza erstellen",
-      "description": "<p>Alle Produkte des Typs Pizza selbst herstellen sind hier aufgelistet.</p>"
+      "description": "<p>Alle Produkte des Typs create your pizza sind hier aufgelistet.</p>"
+    },
+    "fddfda10-5cac-428b-9cb1-d6237258348c": {
+      "name": "Pizza",
+      "description": "<p>Alle Produkte des Typs Pizza sind hier aufgelistet.</p>"
+    },
+    "bb9505b5-e5a8-4455-b53c-8cdca5c1ea98": {
+      "name": "Sandwich",
+      "description": "<p>alle Produkte des Typs Sandwich sind hier aufgelistet.</p>"
+    },
+    "bb775c39-716f-4265-835c-c1b7bf2e29c0": {
+      "name": "Getränk",
+      "description": "<p>alle Produkte vom Typ Getränk sind hier gelistet.</p>"
+    },
+    "aa5474aa-578e-4d0a-81b1-de15166a8766": {
+      "name": "Salate",
+      "description": "<p> </p>"
+    },
+    "a06fa469-caa2-4c17-a4b7-0141d6eb66c9": {
+      "name": "Eintrag",
+      "description": "<p>N/A</p>"
+    },
+    "4153440b-4048-4193-9d04-60d6f51ea19e": {
+      "name": "panzerotti",
+      "description": "<p>Alle Produkte des Typs panzerotti sind hier aufgelistet.</p>"
+    },
+    "2e1e5ee6-1081-45db-85c7-421498475cd9": {
+      "name": "glutenfreie Pizza",
+      "description": "<p>Alle Produkte des Typs glutenfreie Pizza sind hier aufgelistet.</p>"
+    },
+    "1fc62599-32b9-4a98-859d-b9f27fdf9d57": {
+      "name": "Dessert",
+      "description": "<p>Alle Dessertprodukte sind in dieser Kategorie gelistet.</p>"
+    },
+    "0f142654-3109-4dcb-89d3-6b89b8eca35e": {
+      "name": "Pasta",
+      "description": "<p>Alle Pfotenprodukte sind hier aufgelistet.</p>"
     }
   }
 }

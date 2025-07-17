@@ -23,7 +23,7 @@ type DynamicEntry = {
 const TRANSLATABLE_FIELDS = [
   {
     type: "product",
-    fields: ["name", "description", "longDescription"],
+    fields: ["name", "description", "longDescription", "productSizes"],
   },
   {
     type: "category",
@@ -42,15 +42,35 @@ export async function extractDynamicEntries({
     key: string;
     value: string;
     type: "product" | "category";
+    isProductSize?: boolean;
+    sizeIndex?: number;
   }[] = [];
 
-  for (const item of products) {
-    const product = item.product;
+  for (const product of products) {
     const id = product.id;
     for (const field of TRANSLATABLE_FIELDS.find((f) => f.type === "product")
       ?.fields || []) {
       const value = product[field];
-      if (value) {
+
+      if (field === "productSizes" && Array.isArray(value)) {
+        // Traiter chaque taille dans le tableau productSizes
+        value.forEach((sizeObj, index) => {
+          if (sizeObj.size) {
+            entries.push({
+              key: `products.${id}.productSizes`,
+              value: sizeObj.size,
+              type: "product",
+              isProductSize: true,
+              sizeIndex: index,
+            });
+          }
+        });
+      } else if (
+        field !== "productSizes" &&
+        value &&
+        typeof value === "string"
+      ) {
+        // Traiter les autres champs qui sont des strings
         entries.push({
           key: `products.${id}.${field}`,
           value,
@@ -60,13 +80,13 @@ export async function extractDynamicEntries({
     }
   }
 
-  for (const item of categories) {
-    const category = item.category;
+  for (const category of categories) {
+    // const category = item.category;
     const id = category.id;
     for (const field of TRANSLATABLE_FIELDS.find((f) => f.type === "category")
       ?.fields || []) {
       const value = category[field];
-      if (value) {
+      if (value && typeof value === "string") {
         entries.push({
           key: `categories.${id}.${field}`,
           value,
@@ -93,7 +113,7 @@ export async function executeCheckMissing(config: any) {
     }
   }
 
-  if (missing.length > 0) {
+  if (missing?.length > 0) {
     logger.info(chalk.red("🔍 Traductions manquantes trouvées:"));
     for (const entry of missing) {
       logger.info(chalk.red(`- ${entry.key}`));
@@ -175,16 +195,35 @@ export async function translate() {
   for (const entry of allEntries) {
     const hash = hashText(entry.value);
     const [type, id, field] = entry.key.split(".");
-    const existingHash = cacheData?.[type]?.[id]?.[field];
+
+    let cacheKey = field;
+    if (entry.isProductSize && entry.sizeIndex !== undefined) {
+      cacheKey = `${field}_${entry.sizeIndex}`;
+    }
+
+    const existingHash = cacheData?.[type]?.[id]?.[cacheKey];
     if (existingHash !== hash) {
       newEntries.push(entry);
       cacheData[type] = cacheData[type] || {};
       cacheData[type][id] = cacheData[type][id] || {};
-      cacheData[type][id][field] = hash;
+      cacheData[type][id][cacheKey] = hash;
     }
 
-    // Inject in fr.json
-    deepSet(frData, entry.key, entry.value);
+    // Inject in fr.json - pour les productSizes, on doit maintenir la structure array
+    if (entry.isProductSize && entry.sizeIndex !== undefined) {
+      let productSizesArray = deepGet(frData, entry.key);
+      if (!Array.isArray(productSizesArray)) {
+        productSizesArray = [];
+        deepSet(frData, entry.key, productSizesArray);
+      }
+      // S'assurer que l'array a la bonne taille
+      while (productSizesArray.length <= entry.sizeIndex) {
+        productSizesArray.push({});
+      }
+      productSizesArray[entry.sizeIndex] = { size: entry.value };
+    } else {
+      deepSet(frData, entry.key, entry.value);
+    }
   }
 
   writeJsonFile(frLocalePath, frData);
@@ -209,7 +248,25 @@ export async function translate() {
         "E-commerce Pizzeria in Switzerland"
       );
 
-      deepSet(localeData, entry.key, translatedValue);
+      // Add a timeout to avoid rate limiting
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+
+      // Pour les productSizes, maintenir la structure array
+      if (entry.isProductSize && entry.sizeIndex !== undefined) {
+        let productSizesArray = deepGet(localeData, entry.key);
+        if (!Array.isArray(productSizesArray)) {
+          productSizesArray = [];
+          deepSet(localeData, entry.key, productSizesArray);
+        }
+        // S'assurer que l'array a la bonne taille
+        while (productSizesArray.length <= entry.sizeIndex) {
+          productSizesArray.push({});
+        }
+        productSizesArray[entry.sizeIndex] = { size: translatedValue };
+      } else {
+        deepSet(localeData, entry.key, translatedValue);
+      }
+
       log.push({
         lang,
         key: entry.key,

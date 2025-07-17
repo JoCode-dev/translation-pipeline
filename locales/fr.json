@@ -2,18 +2,1307 @@
   "hello": "Bonjour",
   "world": "Monde",
   "products": {
-    "0ac3df92p2": "Ordinateur portable",
-    "0ac3df92p3": "Smartphone",
-    "0ac3df92p4": "Casque audio",
+    "f7492f62-ee94-48ec-a9d0-56ee934b0298": {
+      "name": "Al Tonno sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, thon, oignons rouges, câpres et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, thon, oignons rouges, câpres et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "f4c03404-082d-4b84-8f70-67ddf775e670": {
+      "name": "Diavola",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, salami piquant et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, salami piquant et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "f2835cac-9f0b-4d5d-a3ea-4ed89234c028": {
+      "name": "Boscaiola",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, lard, oignons rouges, champignons et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, lard, oignons rouges, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "f20dcb38-3c37-4908-8942-ef4623a56ef0": {
+      "name": "Fusetea Pêche",
+      "description": "<p><strong>Fusetea Pêche </strong></p>",
+      "longDescription": "<p>Eau, sucre, fructose, acidifiant : acide citrique et acide malique, extrait de thé noir**(0.12%), jus de pêche à base de concentré de jus de pêche (0.1%), </p><p>arômes naturels, correcteur d'acidité : citrates de sodium, antioxydant : acide ascorbique, extrait d'hibiscus (0.01%), </p><p>édulcorant : glycosides de stéviol à base de stévia (E960a).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "ed2aecaf-ba88-40da-8504-3f2b5091d9eb": {
+      "name": "Coca Cola 33cl",
+      "description": "<p><strong>Coca Cola 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "e9a952a4-b1be-48da-8508-f2c01400294d": {
+      "name": "Tiramisu Oreo",
+      "description": "<p><strong>Tiramisu Oreo</strong></p>",
+      "longDescription": "<p>Mascarpone, sucre, blanc d’œuf, oréo 11%, jaune d’œuf, boudoir, café&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, graines de soja, œufs, céréales contenant du gluten (blé)</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "e3e407a3-e962-47f6-8084-538e94ab7043": {
+      "name": "Carbonara",
+      "description": "<p>Mozzarella Fior di Latte, lard, oeufs battus, oignons rouges et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, lard, œufs battus, oignons rouges et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, œufs&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "e2a3eecf-6906-4ce6-83ab-44bda5e55c7d": {
+      "name": "Rucola",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cru, roquettes et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cru, roquette et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "da564a16-8318-413a-bb21-f7bd0e2c2a3f": {
+      "name": "Salade mélée",
+      "description": "<p><strong>Salade mélée</strong></p>",
+      "longDescription": "<p>Salade mêlée&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "d9bb7c52-cc5b-45c2-9418-12dd00dcb9c2": {
+      "name": "Pâte sans gluten sans glutten",
+      "description": "<p>Composez votre pizza </p>",
+      "productSizes": [
+        {
+          "size": "28cm"
+        }
+      ]
+    },
+    "d8d06724-8e9b-492e-84f6-e9d47d50a8f8": {
+      "name": "Coca cola Zéro ",
+      "description": "<p><strong>Coca cola Zéro&nbsp;</strong></p>",
+      "longDescription": "<p>Eau, gaz carbonique, colorant E 150d, édulcorants : cyclamate, acésulfame-K, acidifiants: E338 et citrate de sodium, arômes naturels, arôme caféine. Contient une source de phénylalanine.&nbsp;</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "d2b3b71a-afe4-4551-9834-c54ef6a1d409": {
+      "name": "Tiramisu Spéculos",
+      "description": "<p><strong>Tiramisu Spéculos</strong></p>",
+      "longDescription": "<p>Mascarpone, sucre, blanc d’œuf, spéculos 11%, jaune d’œuf, boudoir, café&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, graines de soja, œufs, céréales contenant du gluten (blé)</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ce2145b0-bda8-4d71-8d95-026d18a05adb": {
+      "name": "Tiramisu classique",
+      "description": "<p><strong>Tiramisu classique</strong></p>",
+      "longDescription": "<p>Mascarpone, sucre, œufs pasteurisés, café, chocolat&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, graines de soja, œufs, céréales contenant du gluten (blé)</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "classique"
+        }
+      ]
+    },
+    "cd535c6d-1924-459a-ad86-56e9f60bac48": {
+      "name": "Vegetariana (Sandwich)",
+      "description": "<p>Poivrons, aubergines, tomates cerises, olives et roquette</p>",
+      "longDescription": "<p>Poivrons, aubergines, tomates cerises, olives et roquette</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ccb8a3e0-a97e-4ae4-aba0-1b3d8f69a499": {
+      "name": "Bufala sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di Bufala DOP, tomates cerises et basilic frais</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di bufala DOP, tomates cerises et basilic frais</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "cc4c9a3b-c322-4252-baad-5a3c0df5b115": {
+      "name": "Al Tonno",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, thon, oignons rouges, câpres et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, thon, oignons rouges, câpres et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "cb990623-c316-4e1a-b65e-1e75f4b951da": {
+      "name": "Quattro Formaggi sans gluten",
+      "description": "<p>Mozzarella Fior di Latte, gorgonzola DOP, fromage frais et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, gorgonzola DOP, fromage frais et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "c8ad00db-387c-4e39-8617-fbcb076d4dcd": {
+      "name": "Margherita sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "c44d53e7-1410-42a3-8011-97c2978a1ef5": {
+      "name": "Panzerotto Fior di Latte",
+      "description": "<p>Sauce tomate, Mozzarella Fior di Latte et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di latte et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "c321cdc3-b734-4253-8ec9-369f6f9087c2": {
+      "name": "Focaccia",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pain pizza, huile à l’ail et origan&nbsp;</p><p><br></p><p><strong>Allergènes :</strong>&nbsp;</p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "Focaccia"
+        }
+      ]
+    },
+    "b38c42f5-1d91-407d-87c5-3854cd449ab1": {
+      "name": "Panzerotto Pistache",
+      "description": "<p>Crème de pistache et stracciatella de burrata</p>",
+      "longDescription": "<p>Crème de pistache et stracciatella de burrata</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, fruits à coque&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "b35e4b10-fe4f-4d63-930b-7f45e72d1d89": {
+      "name": "Svedese sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, saumon fumé, oignons rouges, câpres et origan&nbsp;</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, saumon fumé, oignons rouges, câpres et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "b0bc4464-9d1f-450f-bb0e-95382c465e4b": {
+      "name": "Salade César",
+      "description": "<p>Salade mélée, poulet grillé, écaille Grana Padano DOP et croûtons&nbsp;</p>",
+      "longDescription": "<p>Salade mêlée, poulet grillé, écaille Grana Padano DOP et croûtons&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "ac5cdc3c-2fb6-4d3d-86c8-793b8a1980cf": {
+      "name": "Pizza Nutella",
+      "description": "<p><strong>Pizza Nutella</strong></p>",
+      "longDescription": "<p>Blé, sucre, nutella </p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), fruits à coque, lait, graines de soja</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "abcb628b-1808-481b-9eae-bc906a3a83a0": {
+      "name": "Panna Cotta",
+      "description": "<p><strong>Panna Cotta</strong></p>",
+      "longDescription": "<p>Framboise, crème, vanille, sucre</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, œufs, fruits à coque</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a9c13777-a104-4e46-ab0f-ee97ef3e37d3": {
+      "name": "Vegetariana",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, aubergines, poivrons, oignons rouges et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, aubergines, poivrons, oignions rouge et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a865d688-74b0-4ff8-ad7c-6dca54946c25": {
+      "name": "Quattro Formaggi",
+      "description": "<p>Mozzarella Fior di Latte, gorgonzola DOP, fromage frais et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, gorgonzola DOP, fromage frais et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "a63915fc-2986-45f5-a151-1d37ff63e6b6": {
+      "name": "Della Valtellina (Sandwich)",
+      "description": "<p>Bresaola, mozzarella di Bufala DOP, pesto basilic maison et roquette</p>",
+      "longDescription": "<p>Bresaola, mozzarella di bufala DOP, pesto basilic maison et roquette</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "a529e5ff-75d0-49ea-9e44-fa3bf436e4ad": {
+      "name": "Primavera",
+      "description": "<p>Mozzarella Fior di Latte, jambon cru, ricotta et pesto de basilic maison</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, jambon cru, ricotta et pesto basilic maison</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "a4f31706-e4ac-4675-9b58-a2584524649a": {
+      "name": "Bufala",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di Bufala DOP, tomates cerises et basilic frais</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di bufala DOP, tomates cerises et basilic frais</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "a2990a8b-9342-4111-86b7-723f53dc89e2": {
+      "name": "Margherita",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9f2455ad-da2b-435d-9664-dfe62eccd7a9": {
+      "name": "Rigatoni ",
+      "description": "<p>Ragù alla Bolognese</p>",
+      "longDescription": "<p>Ragù alla Bolognese</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9e16bc68-b724-420e-9065-ea611bae47b0": {
+      "name": "Panzerotto Prosciuto *",
+      "description": "<p>Sauce tomate, Mozzarella Fior di Latte, jambon cuit/*option dinde et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di latte, jambon cuit/*option dinde et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9ddb7aa2-551a-4acf-8697-96f432390da2": {
+      "name": "Pain à l'ail",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pain pizza, huile à l’ail et origan&nbsp;</p><p><br></p><p><strong>Allergènes :&nbsp;</strong></p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9c801475-7922-4cf5-b37f-848a55314c83": {
+      "name": "Capricciosa *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, artichauts, œuf et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, artichauts, œufs et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, œufs&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9c066cea-d736-4e97-9c56-ddb30f23a2ed": {
+      "name": "Tagliatelle",
+      "description": "<p>Poulet grillé, tomates cerise, olives et câpres</p>",
+      "longDescription": "<p>Poulet grillé, tomates cerises, olives et câpres&nbsp;</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9b196a9f-7455-448b-b464-fcc77384fb3f": {
+      "name": "Primavera sans gluten",
+      "description": "<p>Mozzarella Fior di Latte, jambon cru, ricotta et pesto de basilic maison</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, jambon cru, ricotta et pesto basilic maison</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "9ac869c1-e4d2-43b9-a753-9e3da34f5795": {
+      "name": "Boscaiola sans glutten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, lard, oignons rouges, champignons et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, lard, oignons rouges, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "9a748339-583f-4a4f-805f-4fc75fa5bbc8": {
+      "name": "Al Tonno (Sandwich)",
+      "description": "<p>Thon à la mayonnaise, mozzarella Fior di Late, oignons rouges et tomates cerises</p>",
+      "longDescription": "<p>Thon à la mayonnaise, mozzarella Fior di latte , oignons rouges et tomates cerises</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, moutarde</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9a3ad1bc-86af-43b7-9f9c-b860b21457dc": {
+      "name": "Dracula sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, merguez, poivrons, olives et origan</p>",
+      "longDescription": "<p><br></p><p>Sauce tomate, mozzarella Fior di Latte, merguez, poivrons, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "99ea5fa7-23a4-4180-8cb6-31608f67d6cb": {
+      "name": "FuseTea Citron 0,5L",
+      "description": "<p><strong>FuseTea Citron 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "97f40696-68d1-4c50-8f83-54c4ba0a6fa2": {
+      "name": "Lombarda *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "9523a3d5-e961-408d-b76b-76c54e36ac8e": {
+      "name": "Siciliana",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di Bufala DOP, mortadella et pesto pistache</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di bufala DOP, mortadella et pesto pistache</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, fruits à coque</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "94e5758c-17f1-4a84-86d1-0fd2dfd991ef": {
+      "name": "Valser Plate ",
+      "description": "<p><strong>Valser Plate </strong></p>",
+      "longDescription": "<p>L'eau légère non gazeuse: plate et douce. Issue de la source St-Paul, située à 1806 mètres au-dessus du niveau de la mer, </p><p>VALSER Plate est particulièrement douce au goût grâce à sa faible teneur en minéraux (220 mg/l).</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        }
+      ]
+    },
+    "94091118-f1cb-439c-9499-50d99ae2481b": {
+      "name": "Rotolo Pizza",
+      "description": "<p>Sauce tomate, roquette, tomates cerises et fromage frais</p>",
+      "longDescription": "<p>Sauce tomate, roquette, tomates cerises et fromage frais</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "933d4b5c-b727-40f6-82ff-0143e8b2665f": {
+      "name": "Gamberetti",
+      "description": "<p>Mozzarella Fior di Latte, crevettes décortiquées, épinard, tomates cerises et huile à l'ail</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, crevettes décortiquées, épinard, tomates cerises et huile à l’ail</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "91776d2d-595b-44f2-a9e3-7c6eb7229e10": {
+      "name": "Gnocchi",
+      "description": "<p>Gorgonzola e noci</p>",
+      "longDescription": "<p>Gorgonzola et noix</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, fruits à coque</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "8f3d1441-c6a8-4477-a0a7-e238804752ab": {
+      "name": "Coca Cola 0,5L",
+      "description": "<p><strong>Coca Cola 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "8e569f7c-5919-4965-bafa-b6897c01eed8": {
+      "name": "Fanta orange",
+      "description": "<p><strong>Fanta orange</strong></p>",
+      "longDescription": "<p>Eau gazéifiée ; jus d'orange à base de concentré (10%) ; sucre ; jus de citron à base de concentré (2%) ; </p><p>arômes naturels d'orange avec autres arômes naturels ; conservateur : </p><p>sorbate de potassium ; stabilisant : gomme de guar ; extraits de miel ; </p><p>colorant : caroténoïdes.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "8c5ef790-87b0-47fc-bf86-368d40b3304b": {
+      "name": "Marinara sans gluten",
+      "description": "<p>Sauce tomate, olives, câpres et huile à l’ail</p>",
+      "longDescription": "<p>Sauce tomate, olives, câpres et huile à l’ail</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "8a3fd111-0fb5-4081-b2aa-1b4a54f4b336": {
+      "name": "Diavola sans glutten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, salami piquant et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, salami piquant et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "88568ec3-39ac-4d57-976f-1978a7f8f8e0": {
+      "name": "Napoletana",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, anchois, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte,anchois, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "833d80bf-9f84-4d24-ada8-a7745fdfb022": {
+      "name": "Valser Gazeuse 0,5L",
+      "description": "<p><strong>Valser Gazeuse 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "7bdba4c6-6cc4-4944-9a1d-f86ebc745ab5": {
+      "name": "4 Stagioni * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons, artichauts, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons, artichauts, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "799fab29-1ef9-48ad-af8f-dcf77bc41c96": {
+      "name": "Napoletana sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, anchois, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte,anchois, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "78f59dca-33f1-413d-bf66-45475ef32bed": {
+      "name": "Calzone * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, œuf et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit, œuf et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, œufs &nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique "
+        }
+      ]
+    },
+    "75295817-0d21-4282-9017-596970d678ed": {
+      "name": "Panzerotto Tartufo",
+      "description": "<p>crème de truffe et stracciatella de burrata</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di latte, jambon cuit et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "708a1004-93ff-4c86-8fa6-55ffb9107735": {
+      "name": "Pettoline",
+      "description": "<p><br></p>",
+      "longDescription": "<p>Pain pizza et sel</p><p><br></p><p><strong>Allergènes :&nbsp;</strong></p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "70113c74-866b-4aee-9c3f-b97d9a01f318": {
+      "name": "Frutti di Mare sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, cocktail fruits de mer et huile à l'ail</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, cocktail fruits de mer et huile à l’ail</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "6c9d63c2-1b77-4fc6-ade1-782e6ced493d": {
+      "name": "Fanta 33cl",
+      "description": "<p><strong>Fanta 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33 cl"
+        }
+      ]
+    },
+    "67069091-a951-4204-b6be-034ab3b43fc8": {
+      "name": "Dracula",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, merguez, poivrons, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, merguez, poivrons, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "61407f77-38f3-4423-8ab9-566db0bdfcf5": {
+      "name": "Mickey Mouse (enfant)",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, olives, basilic et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "5b284f15-eac6-4656-9dc4-e67e3cfc9c59": {
+      "name": "Prosciuto* (Sandwich)",
+      "description": "<p>Jambon cuit/*option dinde, mozzarella Fior di Late, tomates cerises et roquette</p>",
+      "longDescription": "<p>Jambon cuit/*option dinde, mozzarella Fior di latte, tomates cerises et roquette</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "5abe5b8a-aa88-4641-902b-ce76ea614af8": {
+      "name": "Coca Cola Original",
+      "description": "<p><strong>Coca Cola Original</strong></p>",
+      "longDescription": "<p>Eau, sucre, acide carbonique, colorant E 150d, acidifiant E 338, arômes naturels incl. caféine</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        },
+        {
+          "size": "1.5l"
+        }
+      ]
+    },
+    "5a6956b0-2b55-4a46-87a1-57c491cb5b80": {
+      "name": "Pâte classique",
+      "description": "<p>Sélectionnez la taille</p>",
+      "longDescription": "<p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé)</p>",
+      "productSizes": [
+        {
+          "size": "24cm"
+        },
+        {
+          "size": "40cm"
+        },
+        {
+          "size": "33cm"
+        }
+      ]
+    },
+    "58f10060-4f51-4f9d-8ca1-1ac00b28c85f": {
+      "name": "Marinara",
+      "description": "<p>Sauce tomate, olives, câpres et huile à l’ail</p>",
+      "longDescription": "<p>Sauce tomate, olives, câpres et huile à l’ail</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "58edb71c-ee08-4840-98d6-00c93158f0b8": {
+      "name": "Di Parma (Sandwich)",
+      "description": "<p>Jambon cru, mozzarella di Bufala DOP, pesto basilic maison et roquette</p>",
+      "longDescription": "<p>Jambon cru, mozzarella di bufala DOP, pesto basilic maison et roquette</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "583d87cd-d1f0-4eb0-8ca5-06bed9ff2dd2": {
+      "name": "Lombarda * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "51cbc3fe-89f0-406e-a5a1-c5dee6dff544": {
+      "name": "Pâte à pizza classique sans gluten",
+      "description": "<p>Choisissez la taille et garnissez-la ensuite.</p>",
+      "productSizes": [
+        {
+          "size": "24cm"
+        },
+        {
+          "size": "33cm"
+        },
+        {
+          "size": "40cm"
+        }
+      ]
+    },
+    "50b39318-e1f1-4835-8ccd-31778a0c6b55": {
+      "name": "Sprite 33cl",
+      "description": "<p><strong>Sprite 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "4b92b2a0-80ac-44e0-a460-3240e17bb036": {
+      "name": "4 Stagioni *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons, artichauts, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons, artichauts, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "4887306d-e280-42fc-8419-ad03a78a4be3": {
+      "name": "Salade Al Tonno",
+      "description": "<p>Salade mélée, thon, oignons rouges, olives et oeuf dur</p>",
+      "longDescription": "<p>Salade mêlée, thon, oignons rouges, olives et œuf dur</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Poisson, œufs&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "45a90f70-251b-4959-8e81-44c4ba25fbe0": {
+      "name": "Rucola sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cru, roquettes et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cru, roquette et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "40445de5-d2b8-491c-a3a5-5a19c5e2ae92": {
+      "name": "Hawai * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, ananas et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, ananas et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "3f49ca77-d99c-4883-b3ae-2b68ab414fde": {
+      "name": "Mortadella (Sandwich)",
+      "description": "<p>Mortadella, mozzarella di Bufala DOP, pesto pistache maison et roquette</p>",
+      "longDescription": "<p>Mortadella, mozzarella di bufala DOP, pesto pistache maison et roquette&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, fruits à coques</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "3c4cb427-64a6-44f7-b368-638425f86094": {
+      "name": "Va Bene sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, bresaola, mozzarella di Bufala DOP, roquettes et huile aromatisé à la Truffe</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, bresaola, mozzarella di bufala DOP, roquette et huile aromatisé à la truffe et sans glutten</p><p><br></p><p><strong>Allergènes :</strong></p><p>lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "3beecbb8-632f-47c8-922c-fd2e1d4440d0": {
+      "name": "Valser Plate 0,5L",
+      "description": "<p><strong>Valser Plate 0,5L</strong></p>",
+      "productSizes": [
+        {
+          "size": "0,5L"
+        }
+      ]
+    },
+    "3b4285f9-33ad-471f-95e6-ad5b7d43f531": {
+      "name": "Burrata sans gluten",
+      "description": "<p>Tomates jaunes, mozzarella Fior di Latte, burrata, pignons et pesto de basilic maison</p>",
+      "longDescription": "<p>Tomates jaunes, mozzarella Fior di Latte, burrata, pignons et pesto basilic maison</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, fruits à coque</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "37837eac-20c9-4036-8e48-803aacc4d4aa": {
+      "name": "Svedese",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, saumon fumé, oignons rouges, câpres et origan&nbsp;</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, saumon fumé, oignons rouges, câpres et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "370abd1e-1784-41ef-acaa-544860e0198f": {
+      "name": "FuseTea Pêche 33cl",
+      "description": "<p><strong>FuseTea Pêche 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "31143750-99aa-4d00-9bda-5d052ec0061b": {
+      "name": "FuseTea Citron 33cl",
+      "description": "<p><strong>FuseTea Citron 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
+    },
+    "305566de-a9b2-40a9-a16f-345ee75ee032": {
+      "name": "Funghi sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, champignons et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "2cb5db83-e346-4f10-9a13-f60410e0c267": {
+      "name": "Sauce à salade extra",
+      "description": "<p>Sauce à salade extra</p>",
+      "longDescription": "<p>Balsamique :</p><p>Eau, vinaigre balsamique de Modène 22% (vinaigre de vin, moût de raisin), vinaigre de vin rouge, sucre, huile de tournesol, sel de cuisine iodé, épices, extraits de levure, ail, jus de citron concentré, arome naturel, sel de cuisine, épaississants (carraghénanes, gomme xanthane, farine de graines de guar), conservateur (E202).</p><p>Française :</p><p>Eau, huile de tournesol, vinaigre d’alcool, jaune d’oeufs (oeufs d’élevage au sol), amidon modifié de maïs, MOUTARDE, sucre, condiment en poudre (avec exhausteur de goût: glutamate monosodique), sel de cuisine iodé, herbes de Provence 0.39%, épices et extrait d’épices, jus de citron concentré, acidifiant (acide lactique), conservateur (E202), épaississant (gomme xanthane).</p><p>Italienne :</p><p>Eau, vinaigre de vin rouge, huile de tournesol, amidon, sucre, sel de cuisine iodé et non iodé, plantes aromatiques, ail, épices, arômes naturels, concentré de jus de citron et de sureau, extrait de levure.</p><p><br></p><p><strong>Allergènes :</strong></p><h3>Fruits à coque, lait, moutarde</h3>",
+      "productSizes": [
+        {
+          "size": "Balsamico"
+        },
+        {
+          "size": "Italienne"
+        },
+        {
+          "size": "Française"
+        }
+      ]
+    },
+    "28ecb8d1-a044-4d2d-8bce-b478968b0a56": {
+      "name": "Capricciosa * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, artichauts, œuf et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, artichauts, œufs et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, œufs&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "25a03bff-aa6c-4ec8-935b-5ef088e37e79": {
+      "name": "Calzone *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, œuf et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, œuf et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites, œufs &nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "2532e9c1-a473-4478-a5e3-3c5cc9fe984e": {
+      "name": "Burrata",
+      "description": "<p>Tomates jaunes, mozzarella Fior di Latte, burrata, pignons et pesto de basilic maison</p>",
+      "longDescription": "<p>Tomates jaunes, mozzarella Fior di Latte, burrata, pignons et pesto basilic maison</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, fruits à coque</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "22c10b47-afad-496a-b864-2ad9532e6dca": {
+      "name": "Fusetea Citron ",
+      "description": "<p><strong>Fusetea Citron </strong></p>",
+      "longDescription": "<p>Eau, sucre, fructose, acidifiant : acide citrique, extrait de thé noir (0.12%), jus de citron à base de concentré de jus de citron(0.1%), </p><p>correcteur d'acidité : citrates de sodium, conservateurs : E211 et E202, </p><p>arômes naturels, antioxydant : acide ascorbique, édulcorant : glycosides de stéviol à base de stévia (E960a)</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "209819fe-df68-4e94-ba8f-381ca13c73b3": {
+      "name": "Montanara *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "1fd5ddac-155b-4299-80d7-08ef84b7b26c": {
+      "name": "Orecchiette",
+      "description": "<p>Panna e Salmone</p>",
+      "longDescription": "<p>Panna e salmone</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, poissons</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "1af0ff23-bd1a-49a0-9764-33f05aef99c8": {
+      "name": "Sprite ",
+      "description": "<p><strong>Sprite </strong></p>",
+      "longDescription": "<p>Eau, sucre, acide carbonique, acidifiants acide citrique, édulcorants acésulfame K, aspartame et néohespéridine DC, conservateur benzoate de sodium, correcteur d'acidité citrates de sodium, arômes naturels de citron et de citron vert. Contient une source phénylalanine.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "1a6bcac9-0d8d-4c71-a4d8-ed67c9693071": {
+      "name": "Pollo Dorato",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, poulet curry, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, poulet curry, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "1a2a6b4c-3113-4915-bd92-590e33b61788": {
+      "name": "FuseTea Pêche 0,5L",
+      "description": "<p><strong>FuseTea Pêche 0,5L</strong></p>"
+    },
+    "16a075b4-3957-4124-8d73-140c204f2c43": {
+      "name": "Funghi",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, champignons et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "0f0778ab-7c5c-407b-ac6c-68982430047e": {
+      "name": "Frutti di Mare",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, cocktail fruits de mer et huile à l'ail</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, cocktail fruits de mer et huile à l’ail</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, poissons&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Grande"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        }
+      ]
+    },
+    "0e4865ce-e267-4f35-a875-8a35d53cfc83": {
+      "name": "Hawai *",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, ananas et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, ananas et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "0d9237b7-3f1d-451e-8a71-7bc26569e1ee": {
+      "name": "Montanara * sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons et origan</p>",
+      "longDescription": "<p><br></p><p>Sauce tomate, mozzarella Fior di Latte, jambon cuit/*option dinde, champignons et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "0d4def39-234b-45ff-b9ea-afae58434263": {
+      "name": "Vegetariana sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, aubergines, poivrons, oignons rouges et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, aubergines, poivrons, oignions rouge et origan</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "0cc9ad7f-614f-41fd-a8ca-61bb3b09dc1d": {
+      "name": "test",
+      "description": "<p>ceci est un test</p>",
+      "productSizes": [
+        {
+          "size": "30cm"
+        }
+      ]
+    },
+    "0a7033e3-0e12-4acc-92b0-efbf54ca06e9": {
+      "name": "Fusilli",
+      "description": "<p>Pesto de basilic</p>",
+      "longDescription": "<p>Pesto de basilic et pignons&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), fruits à coque&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Normale"
+        }
+      ]
+    },
+    "08dfe788-5b7e-450b-9504-4187dd8a7381": {
+      "name": "Carbonara sans gluten",
+      "description": "<p>Mozzarella Fior di Latte, lard, oeufs battus, oignons rouges et écailles Grana Padano DOP</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, lard, œufs battus, oignons rouges et écailles Grana Padano DOP</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, œufs&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "06f0a74f-53ca-404e-89d7-68c93f6c5e4c": {
+      "name": "Siciliana sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di Bufala DOP, mortadella et pesto pistache</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, mozzarella di bufala DOP, mortadella et pesto pistache</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites, fruits à coque</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "06592797-a318-483c-9a02-385b2fd5c5f9": {
+      "name": "Gamberetti sans gluten",
+      "description": "<p>Mozzarella Fior di Latte, crevettes décortiquées, épinard, tomates cerises et huile à l'ail</p>",
+      "longDescription": "<p>Mozzarella Fior di Latte, crevettes décortiquées, épinard, tomates cerises et huile à l’ail</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
+    "0577d23f-f859-452e-9478-aa3fe420e5a7": {
+      "name": "Va Bene",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, bresaola, mozzarella di Bufala DOP, roquettes et huile aromatisé à la Truffe</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, bresaola, mozzarella di bufala DOP, roquette et huile aromatisé à la truffe&nbsp;</p><p><br></p><p><strong>Allergènes :</strong></p><p>Céréales contenant du gluten (blé), lait, sulfites&nbsp;</p>",
+      "productSizes": [
+        {
+          "size": "Petite"
+        },
+        {
+          "size": "Normale"
+        },
+        {
+          "size": "Grande"
+        }
+      ]
+    },
+    "05289e57-360f-48e0-8cfa-b556a814369c": {
+      "name": "Valser pétillante ",
+      "description": "<p><strong>Valser pétillante </strong></p>",
+      "longDescription": "<p>L'eau minérale naturelle est enrichie de gaz carbonique et a une haute teneur en minéraux. </p><p>VALSER pétillante est l’eau idéale pour étancher la soif, et, de plus, très précieuse pour l'organisme.</p><p><br></p>",
+      "productSizes": [
+        {
+          "size": "1.5l"
+        },
+        {
+          "size": "0.5l"
+        }
+      ]
+    },
+    "03159f66-0439-4990-a2ed-ca1e315249ce": {
+      "name": "Pollo Dorato sans gluten",
+      "description": "<p>Sauce tomate, mozzarella Fior di Latte, poulet curry, olives et origan</p>",
+      "longDescription": "<p>Sauce tomate, mozzarella Fior di Latte, poulet curry, olives et origan</p><p>Malgré un traitement soigneux, il peut encore y avoir des noyaux et de fragments de noyaux dans les olives.</p><p><br></p><p><strong>Allergènes :</strong></p><p>Lait</p>",
+      "productSizes": [
+        {
+          "size": "Unique (28cm)"
+        }
+      ]
+    },
     "01b30afb-c735-4dba-bb73-121d1cc7fab2": {
       "name": "Pâte sans gluten",
-      "description": "<p>Taille unique de 28cm</p>"
+      "description": "<p>Taille unique de 28cm</p>",
+      "productSizes": [
+        {
+          "size": "28cm"
+        }
+      ]
+    },
+    "00f0b034-53a8-4194-8a37-b5e250f5a78e": {
+      "name": "Coca Zéro 33cl",
+      "description": "<p><strong>Coca Zéro 33cl</strong></p>",
+      "productSizes": [
+        {
+          "size": "33cl"
+        }
+      ]
     }
   },
   "categories": {
     "fd4a2c4e-49ef-48a5-9937-6f3a51122f9e": {
       "name": "créer votre pizza",
       "description": "<p>tous les produits de type créer votre pizza sont repertorié ici.</p>"
+    },
+    "fddfda10-5cac-428b-9cb1-d6237258348c": {
+      "name": "pizza",
+      "description": "<p>tous les produits de type pizza sont repertorié ici.</p>"
+    },
+    "bb9505b5-e5a8-4455-b53c-8cdca5c1ea98": {
+      "name": "sandwich",
+      "description": "<p>tous les produits de type sandwich sont repertorié ici.</p>"
+    },
+    "bb775c39-716f-4265-835c-c1b7bf2e29c0": {
+      "name": "boisson",
+      "description": "<p>tous les produits de type boisson sont repertorié ici.</p>"
+    },
+    "aa5474aa-578e-4d0a-81b1-de15166a8766": {
+      "name": "salades",
+      "description": "<p> </p>"
+    },
+    "a06fa469-caa2-4c17-a4b7-0141d6eb66c9": {
+      "name": "entrée",
+      "description": "<p>N/A</p>"
+    },
+    "4153440b-4048-4193-9d04-60d6f51ea19e": {
+      "name": "panzerotti",
+      "description": "<p>Tous les produits de type panzerotti sont repertorié ici.</p>"
+    },
+    "2e1e5ee6-1081-45db-85c7-421498475cd9": {
+      "name": "pizza sans gluten",
+      "description": "<p>tous les produits de type pizza sans gluten sont repertorié ici.</p>"
+    },
+    "1fc62599-32b9-4a98-859d-b9f27fdf9d57": {
+      "name": "dessert",
+      "description": "<p>Tous les produits dessert sont repertorié dans cette categorie.</p>"
+    },
+    "0f142654-3109-4dcb-89d3-6b89b8eca35e": {
+      "name": "pâtes",
+      "description": "<p>tous les produits pattes sont repertorié ici.</p>"
     }
   }
 }
