@@ -20,6 +20,9 @@ type DynamicEntry = {
   value: string;
 };
 
+// TODO: Add a way to translate additional fields
+// TODO: Add a way to translate ingredients
+
 const TRANSLATABLE_FIELDS = [
   {
     type: "product",

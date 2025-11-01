@@ -383,7 +383,7 @@
       ]
     },
     "9f2455ad-da2b-435d-9664-dfe62eccd7a9": {
-      "name": "Rigatoni ",
+      "name": "Rigatoni Al Ragù",
       "description": "<p>Ragù alla Bolognese</p>",
       "longDescription": "<p>Ragù alla Bolognese</p><p><br></p><p><strong>Allergens :</strong></p><p>Cereals containing gluten (wheat)</p>",
       "productSizes": [
@@ -429,7 +429,7 @@
       ]
     },
     "9c066cea-d736-4e97-9c56-ddb30f23a2ed": {
-      "name": "Tagliatelle",
+      "name": "Tagliatelle Chicken",
       "description": "<p>Grilled chicken, cherry tomatoes, olives and capers</p>",
       "longDescription": "<p>Grilled chicken, cherry tomatoes, olives and capers</p><p>Despite careful processing, pits and pit fragments may still be present in olives.</p><p><br></p><p><strong>Allergens :</strong></p><p>Cereals containing gluten (wheat), sulfites</p>",
       "productSizes": [
@@ -559,7 +559,7 @@
       ]
     },
     "91776d2d-595b-44f2-a9e3-7c6eb7229e10": {
-      "name": "Gnocchi",
+      "name": "Gnocchi Gorgonzola",
       "description": "<p>Gorgonzola e noci</p>",
       "longDescription": "<p>Gorgonzola and walnuts</p><p><br></p><p><strong>Allergens :</strong></p><p>Cereals containing gluten (wheat), milk, nuts</p>",
       "productSizes": [
@@ -1046,7 +1046,7 @@
       ]
     },
     "1fd5ddac-155b-4299-80d7-08ef84b7b26c": {
-      "name": "Orecchiette",
+      "name": "Orecchiette Salmone",
       "description": "<p>Panna e Salmone</p>",
       "longDescription": "<p>Panna e salmone</p><p><br></p><p><strong>Allergens :</strong></p><p>Cereals containing gluten (wheat), milk, fish</p>",
       "productSizes": [
@@ -1166,7 +1166,7 @@
       ]
     },
     "0a7033e3-0e12-4acc-92b0-efbf54ca06e9": {
-      "name": "Fusilli",
+      "name": "Fusilli Pesto",
       "description": "<p>Basil pesto</p>",
       "longDescription": "<p>Basil and pine nut pesto</p><p><br></p><p><strong>Allergens :</strong></p><p>Cereals containing gluten (wheat), nuts</p>",
       "productSizes": [
@@ -1251,7 +1251,8 @@
         {
           "size": "28cm"
         }
-      ]
+      ],
+      "longDescription": "<p><br></p>"
     },
     "00f0b034-53a8-4194-8a37-b5e250f5a78e": {
       "name": "Coca Zero 33cl",
